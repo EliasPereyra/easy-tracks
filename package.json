@@ -1,5 +1,11 @@
 {
   "name": "expense-tracker",
+  "author": "EliasPereyra",
+  "description": "",
+  "keywords": [
+    "next",
+    "typescript"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
